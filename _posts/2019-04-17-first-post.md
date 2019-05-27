@@ -1,4 +1,6 @@
 ---
+layout: default
+comments: true
 title: "Welcome to Jekyll!"
 date: 2019-04-17 09:24:28 -0400
 categories: jekyll update
