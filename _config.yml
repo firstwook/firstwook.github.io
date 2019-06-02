@@ -1,6 +1,6 @@
 # Site
-title:              Firstwook
-bio:                'Welcome To Wook's log'
+title:              Moon
+bio:                'Minimal, one column jekyll theme!'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -38,13 +38,13 @@ disqus_shortname:   https-firstwook-github-io
   #ad-slot:
 #bing-verify:
 #email:
-# twitter:            username
-facebook:           1stwook
-github-url:         firstwook
+twitter:            username
+facebook:           username
+github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          sangwook-lee-4b91b0140
+#linkedin:          username
 #xing:              username
-instagram:          unnormal_wook
+instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
